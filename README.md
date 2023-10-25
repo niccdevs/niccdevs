@@ -38,5 +38,5 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 - Personal website: Soon
 - Discord: [![Discord](https://img.shields.io/badge/oksock?style=flat-square&logo=Discord&logoColor=blue)]
-- Email: [![Email](https://img.shields.io/badge/nicclovesintellij@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovesintellij@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/nicclovescoding@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovescoding@gmail.com)
   
