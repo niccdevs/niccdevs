@@ -1,16 +1,36 @@
-### Hi there 👋
+Hi there, I'm **Nick**, a **hobby developer**.
 
-<!--
-**Nicc-exe/Nicc-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
-Here are some ideas to get you started:
+### Personal Stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I'm developing as a hobby since 3 and a half years.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email me if you have any questions.
+
+### Languages:
+- Java
+- JavaScript / HTML / CSS / TypeScript
+- Lua
+
+### Tools I know / use:
+- MySQL
+- MongoDB
+- Next.js
+- React.js
+- Spigot
+- Bukkit
+- Gradle
+  
+- Webstorm
+- IntelliJ
+- DataGrip
+
+#### Contact me:
+
+- Personal website: Soon
+- Email: [![Email](https://img.shields.io/badge/nicclovesintellij@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovesintellij@gmail.com)
+
+### My GitHub Stats
+
+![Nicc.exe's github stats](https://github-readme-stats.vercel.app/api?username=Nicc-exe&show_icons=true)
