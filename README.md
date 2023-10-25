@@ -26,11 +26,6 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - IntelliJ
 - DataGrip
 
-#### Contact me:
-
-- Personal website: Soon
-- Email: [![Email](https://img.shields.io/badge/nicclovesintellij@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovesintellij@gmail.com)
-
 ### My GitHub Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=Nicc-exe&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicc-exe"/>|
 |---|---|
@@ -38,5 +33,10 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 ### Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicc-exe&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+
+#### Contact me:
+
+- Personal website: Soon
+- Email: [![Email](https://img.shields.io/badge/nicclovesintellij@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovesintellij@gmail.com)
 
 
