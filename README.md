@@ -8,6 +8,10 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
+### Current Projects:
+- Owner and Developer of Glow
+- Developer at Minoru Games
+
 ### Languages:
 - Java
 - JavaScript / HTML / CSS / TypeScript
