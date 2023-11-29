@@ -15,6 +15,7 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Java
 - JavaScript / HTML / CSS / TypeScript
 - Lua
+- C#
 
 ### Tools I know / use:
 - MySQL
@@ -24,6 +25,8 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Spigot
 - Bukkit
 - Gradle
+
+- Unity
   
 - Webstorm
 - IntelliJ
