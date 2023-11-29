@@ -9,7 +9,7 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 ### Current Projects:
 - Owner and Developer of Glow
-- Developer at [Minoru Games](https://discord.gg/cKhZqVkq)
+- Owner and Developer of VIsual Odyssey
 
 ### Languages:
 - Java
