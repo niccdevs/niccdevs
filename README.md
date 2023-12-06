@@ -4,12 +4,13 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 ### Personal Stuff:
 
-- 👨🏽‍💻 I'm developing as a hobby since 3 and a half years.
-- 💬 Ask me about anything, I am happy to help.
+- I'm developing as a hobby since 3 and a half years.
+- Ask me about anything, I am happy to help.
 
 ### Current Projects:
 - Owner and Developer of Glow
-- Owner and Developer of VIsual Odyssey
+- Owner and Developer of Visual Odyssey
+- Developer at Minoru Dev
 
 ### Languages:
 - Java
