@@ -44,6 +44,6 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 #### Contact me:
 
 - Personal website: Soon
-- Discord: **oksock** or **nicclovesintellij**
+- Discord: **niccdev** or **nicclovesintellij**
 - Email: [![Email](https://img.shields.io/badge/nicclovescoding@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovescoding@gmail.com)
   
