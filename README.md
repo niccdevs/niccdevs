@@ -13,7 +13,7 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Owner and Developer of Visual Odyssey
 - Developer at Minoru Dev
 
-### Languages:
+### Languages I know / use:
 - Java
 - JavaScript / HTML / CSS / TypeScript
 - Lua
