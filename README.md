@@ -1,4 +1,5 @@
-Hi there, I'm **Nick**, a **hobby developer**.
+Hi, 
+I'm nicc, a hobby developer.
 
 I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
