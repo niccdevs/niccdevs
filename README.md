@@ -46,5 +46,6 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 - Personal website: Soon
 - Discord: **niccdev** or **nicclovesintellij**
+- Past work / discord server: https://discord.gg/k7gK9aCPFB
 - Email: [![Email](https://img.shields.io/badge/nicclovescoding@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicclovescoding@gmail.com)
   
