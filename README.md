@@ -35,7 +35,7 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 ### Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccdevs&layout=compact&theme=midnight-purple)](https://github.com/niccdevs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccdevs&langs_count=8)
 
 #### Contact me:
 
