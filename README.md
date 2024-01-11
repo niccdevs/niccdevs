@@ -10,8 +10,6 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 
 ### Current Projects:
 - Owner and Developer of Glow
-- Owner and Developer of Visual Odyssey
-- Developer at Minoru Dev
 
 ### Languages I know / use:
 - Java
@@ -19,20 +17,17 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Lua
 - C#
 
-### Tools I know / use:
+### Stuff I know / use:
 - MySQL
 - MongoDB
 - Next.js
-- React.js
+- Prisma
+- Tailwind
 - Spigot
-- Bukkit
 - Gradle
-
-- Unity
   
 - Webstorm
 - IntelliJ
-- DataGrip
 
 ### My GitHub Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=Nicc-exe&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicc-exe"/>|
