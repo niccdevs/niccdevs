@@ -9,21 +9,18 @@ I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Ask me about anything, I am happy to help.
 
 ### Current Projects:
-- Owner and Developer of Glow
+-
 
 ### Languages I know / use:
 - Java
 - JavaScript / HTML / CSS / TypeScript
 - Lua
-- C#
-
+  
 ### Stuff I know / use:
-- MySQL
-- MongoDB
 - Next.js
-- Prisma
 - Tailwind
-- Spigot
+- shadcn/ui
+- Prisma
 - Gradle
   
 - Webstorm
