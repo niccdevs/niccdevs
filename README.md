@@ -1,7 +1,7 @@
 Hi, 
 I'm nicc, a hobby developer.
 
-I am from **[Germany](https://en.wikipedia.org/wiki/Germany)**.
+I am from Germany
 
 ### Personal Stuff:
 
