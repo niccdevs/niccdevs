@@ -5,7 +5,7 @@ I am from Germany
 
 ### Personal Stuff:
 
-- I'm developing as a hobby since 3 and a half years.
+- I'm developing as a hobby since 4 years.
 - Ask me about anything, I am happy to help.
 
 ### Current Projects:
