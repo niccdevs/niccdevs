@@ -9,22 +9,12 @@ I am from Germany
 - Ask me about anything, I am happy to help.
 
 ### Current Projects:
--
+- Conovu
 
-### Languages I know / use:
+### Languages I know:
 - Java
 - JavaScript / HTML / CSS / TypeScript
 - Lua
-  
-### Stuff I know / use:
-- Next.js
-- Tailwind
-- shadcn/ui
-- Prisma
-- Gradle
-  
-- Webstorm
-- IntelliJ
 
 ### My GitHub Stats
 |<img src="https://github-readme-stats.vercel.app/api?username=niccdevs&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=niccdevs"/>|
