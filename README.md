@@ -1,18 +1,18 @@
-Hi, 
 I'm nicc, a hobby developer.
 
 I am from Germany
 
 ### Personal Stuff:
 
-- I'm developing as a hobby since 4 years.
+- I'm developing as a hobby since 5 years.
 - Ask me about anything, I am happy to help.
 
 ### Current Projects:
-- Conovu
+- Working for NextByte LLC
 
 ### Languages I know:
 - Java
+- Python
 - JavaScript / HTML / CSS / TypeScript
 - Lua
 
