@@ -1,5 +1,4 @@
-I'm nicc, a hobby developer.
-
+I'm nicc
 I am from Germany
 
 ### Personal Stuff:
