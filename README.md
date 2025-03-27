@@ -1,7 +1,6 @@
 I'm nicc
 
-### Personal Stuff:
-- I'm a German student
+### Personal Stuff
 - I'm developing as a hobby since 5 years.
 - Ask me about anything, I am happy to help.
 
