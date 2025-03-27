@@ -1,8 +1,7 @@
 I'm nicc
-I am from Germany
 
 ### Personal Stuff:
-
+- I'm a German student
 - I'm developing as a hobby since 5 years.
 - Ask me about anything, I am happy to help.
 
