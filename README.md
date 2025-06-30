@@ -3,9 +3,10 @@ I'm nicc
 ### Personal Stuff
 - I'm developing as a hobby since 5 years.
 - Ask me about anything, I am happy to help.
+- Working for NextByte LLC.
 
 ### Current Projects:
-- Working for NextByte LLC
+- Lead Developer of [SolNote](https://solnote.trade/)
 
 ### Languages I know:
 - Java
