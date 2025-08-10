@@ -2,7 +2,6 @@ I'm nicc
 
 ### Personal Stuff
 - I'm developing as a hobby since 5 years
-- Working for NextByte LLC.
 - Ask me about anything, I am happy to help
 
 ### Current Projects:
