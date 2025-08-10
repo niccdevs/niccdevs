@@ -6,7 +6,7 @@ I'm nicc
 - Ask me about anything, I am happy to help
 
 ### Current Projects:
-- Lead Developer of [SolNote](https://solnote.trade/)
+- looking for hire, comms open
 
 ### Languages I know:
 - Java
