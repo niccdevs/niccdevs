@@ -18,7 +18,7 @@ I'm nicc
 
 ### Most Used Languages 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccdevs&langs_count=2)
+[![nicc's GitHub stats](https://github-readme-stats.vercel.app/api?username=niccdevs)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contact me:
 
