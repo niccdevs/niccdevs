@@ -16,10 +16,6 @@ I'm nicc
 - Rust
 - Lua
 
-### Most Used Languages 💻
-
-[![nicc's GitHub stats](https://github-readme-stats.vercel.app/api?username=niccdevs)]
-
 #### Contact me:
 
 - Discord: **niccdev**
