@@ -1,24 +1,26 @@
 I'm nicc
 
 ### Personal Stuff
-- I'm developing as a hobby since 5 years
-- Ask me about anything, I am happy to help
+- developing as a hobby since 5 years
 
 ### Current Projects:
+- works for smaller companies
+- rewriting and maintaining a RAM fork
 - looking for hire, comms open
 
 ### Languages I know:
 - Java
 - Python
-- JavaScript / HTML / CSS / TypeScript
+- JavaScript / HTML / CSS
+- TypeScript
+- Rust
 - Lua
 
 ### Most Used Languages 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccdevs&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccdevs&langs_count=2)
 
 #### Contact me:
 
-- Personal website: Soon
 - Discord: **niccdev**
   
