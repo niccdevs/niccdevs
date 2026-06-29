@@ -25,3 +25,6 @@ hobby dev for 6+ years. i work with smaller companies and maintain a [RAM fork](
 ### reach me
 
 [![Discord](https://img.shields.io/badge/niccdev-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/niccdev)
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/niccdevs)
+
